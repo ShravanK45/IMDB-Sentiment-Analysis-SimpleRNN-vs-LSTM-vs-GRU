@@ -34,19 +34,19 @@ GRU | Loss: 0.3210 | Accuracy: 0.8667
 ## Visualizations
 ### Training Accuracy Comparison
 
-![Training Accuracy](results/training_accuracy.png)
+![Training Accuracy](Results/training accuracy.png)
 
 ### Validation Accuracy Comparison
 
-![Validation Accuracy](results/validation_accuracy.png)
-
-### Validation Loss Comparison
-
-![Validation Loss](results/validation_loss.png)
+![Validation Accuracy](Results/validation accuracy.png)
 
 ### Test Accuracy Comparison
 
-![Test Accuracy](results/test_accuracy_comparison.png)
+![Test Accuracy](Results/test accuracy.png)
+
+### Model Comparison
+
+![Accuracy Comparison](Results/accuracy comparison.png)
 
 ## Key Takeaway
 LSTM and GRU are designed to better capture long-term dependencies compared with a basic SimpleRNN, which can suffer from vanishing-gradient issues.
